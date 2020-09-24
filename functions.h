@@ -14,11 +14,11 @@ void messageForChosenOption(int option){
 				break;
 	}
 }*/
-
+/*
 void calculateData(double demand, double orderingCost, double maintenanceCost){
 	double totalOrderingCost = 0, totalMaintenanceCost = 0, totalCost = 0, optimalQuantity = 0;
 	optimalQuantity = sqrt(((2*demand*orderingCost)/maintenanceCost));
 	totalOrderingCost = (demand/optimalQuantity) * orderingCost;
 	totalMaintenanceCost = (optimalQuantity/2) * maintenanceCost;
 	totalCost = totalOrderingCost + totalMaintenanceCost;
-}
+}*/
